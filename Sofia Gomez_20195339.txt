@@ -3,5 +3,5 @@ balbino aylagas
 esen feb 2021
 
 nombre completo:Sofia Denice Gomez Calderon 
-github url:
+github url:https://github.com/sofiadenice/ParcialPrograII.git
 progra2
